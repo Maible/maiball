@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "944488935146",
+    "firebase_url": "https://test-80e3c.firebaseio.com",
+    "project_id": "test-80e3c",
+    "storage_bucket": "test-80e3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944488935146:android:d6b270a00004db55a0b193",
+        "android_client_info": {
+          "package_name": "anka.com.maiball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944488935146-oh4fpb1f4hbkijrb7gk0qa6h93imlrug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG9ko_U4PGgpiABXpvNgqkdWRgoY0tF18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944488935146-oh4fpb1f4hbkijrb7gk0qa6h93imlrug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
